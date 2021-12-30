@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540256357377",
+    "project_id": "planner-df5c2",
+    "storage_bucket": "planner-df5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540256357377:android:2da0b0fe3538d139dc8400",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540256357377-cdv754ipd3r6ol2a8jo78cmgn2q3n5n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "cc3ddf1cb3e7b119e1c1a318c5370c59e614fc84"
+          }
+        },
+        {
+          "client_id": "540256357377-d77fbdm9elj3p02m4343676ainspmdub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLycpke9Za7K3HKcquIfTeYHTAFfokig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540256357377-d77fbdm9elj3p02m4343676ainspmdub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
